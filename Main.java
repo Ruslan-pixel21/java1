@@ -4,9 +4,9 @@ public class Main {
     public static void main(String[] args) {
         int egg = 4;
         if (egg > 3)
-            System.out.println("Рекомендую приготовить омлет");
+            System.out.println("хавай омлет");
         else
-            System.out.println("Рекомендую позавтракать бутербродами");
+            System.out.println("хавай бутерброд");
 
         System.out.print("Приятного аппетита!");
 
